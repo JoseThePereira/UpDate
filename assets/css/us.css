@@ -30,10 +30,11 @@ li{
     color: white;
 }
 .button.btn-align{
-   background-color: red;
+   background-color: blue;
    border-top: 2px;
    color: white;
    padding: 20px;
+   display: none;
 }
 
 .productprices{
@@ -44,4 +45,13 @@ li{
 .single-image-carousel.image-wrapper{
    width: 50%;
    height: 50%;
+}
+
+
+.single-toggle-wrapper .toggle-wrap .trigger a {
+    color:white;
+    background-color: red;
+    font-size: 14;
+    
+    
 }
