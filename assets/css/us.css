@@ -29,7 +29,7 @@
 li{
     color: white;
 }
-.button.btn-align{
+.button.btn-align.primary-btn{
    background-color: blue;
    border-top: 2px;
    color: white;
@@ -54,4 +54,8 @@ li{
     font-size: 14;
     
     
+}
+.button.btn-align{
+    background-color: red;
+    color: white;
 }
