@@ -1,0 +1,14 @@
+.team-classic{
+    background-image: url(../images/TF_banner.jpg);
+    
+}
+
+#whitel{
+    color:white;
+}
+
+img{
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+}
